@@ -20,6 +20,10 @@
 > 
 > <img src="https://github.com/user-attachments/assets/641733ea-346c-4af7-b476-08c5e1d6a690" width="50%" /> </br>
 
+### 모델의 성능 비교
+> <img width="329" height="137" alt="image" src="https://github.com/user-attachments/assets/7a911130-96b4-4fed-88a1-df8196ae0a9f" />
+
+
 ### SHAP 결과
 #### 선형 모델
 > <img src="https://github.com/user-attachments/assets/c62f33c8-002c-4256-9755-744cd1e91272" width="60%" />
