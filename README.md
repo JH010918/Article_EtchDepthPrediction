@@ -11,9 +11,12 @@
 > - 물리 기반 모델의 높은 연산 비용과 실시간 모니터링의 어려움 등의 한계를 대체할 수 있는 시스템 가능성을 보여주고자 함 </br>
 > - 각 변수의 SHAP 기여도를 분석하여 조건에 따른 식각율 차이를 분석하고 함
 ### 성과
-> - **[JVSTA] 44권 2호 Editor's Pick 선정**
-> - SHAP 분석을 통한 공정 파라미터의 영향력 해석
-> - DIC에서 추출한 RGB 데이터의 유용성 입증
+> - 2025년 반도체공학회 하계 학술대회 참가<br/>
+> <img alt="image" src="https://github.com/user-attachments/assets/c0e68a15-31d2-4a80-9dc5-5baf06d0b179" width="60%"/> <br/>
+> - **[JVSTA] 44권 2호 Editor's Pick 선정** <br/>
+> <img alt="image" src="https://github.com/user-attachments/assets/ff284881-1d3c-4077-942a-0d9b85dbffc7" width="60%"/> <br/>
+> - SHAP 분석을 통한 공정 파라미터의 영향력 해석 <br/>
+> - DIC에서 추출한 RGB 데이터의 유용성 입증 <br/>
 
 ## 🎬 수행 내용
 ### 데이터
