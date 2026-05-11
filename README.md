@@ -1,11 +1,9 @@
 # AI 기반 반도체 플라즈마 식각 깊이 예측 모델 개발
 > 공정 변수와 광학 특성(DIC)을 통합한 머신러닝 기반 플라즈마 식각 깊이 예측 프레임워크
 
-## 📌 논문 개요
+## 📌 프로젝트 개요
 ### 수행 기간
 > 2025.05 ~ 2026.02
-### DOI
-> https://doi.org/10.1116/6.0005255
 ### 목표
 > - 공정 변수뿐만 아니라 비접촉식 광학 데이터를 결합하여 예측 성능을 높이고자 함 </br>
 > - 물리 기반 모델의 높은 연산 비용과 실시간 모니터링의 어려움 등의 한계를 대체할 수 있는 시스템 가능성을 보여주고자 함 </br>
@@ -15,6 +13,7 @@
 > <img alt="image" src="https://github.com/user-attachments/assets/c0e68a15-31d2-4a80-9dc5-5baf06d0b179" width="60%"/> <br/>
 > - **[JVSTA] 44권 2호 Editor's Pick 선정** <br/>
 > <img alt="image" src="https://github.com/user-attachments/assets/ff284881-1d3c-4077-942a-0d9b85dbffc7" width="60%"/> <br/>
+> DOI : https://doi.org/10.1116/6.0005255
 > - SHAP 분석을 통한 공정 파라미터의 영향력 해석 <br/>
 > - DIC에서 추출한 RGB 데이터의 유용성 입증 <br/>
 
