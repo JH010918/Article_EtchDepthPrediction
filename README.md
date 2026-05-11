@@ -61,9 +61,9 @@
 > #### SHAP 분석 결과
 > <img width="311" height="206" alt="image" src="https://github.com/user-attachments/assets/9c47daad-420d-4ccb-8f06-a30a1a5e44c2" />
 > 
-> #### SHAP 결과 요약
 > - 공정 변수 중 PF Power가 영향력이 가장 큰 변수 </br>
 > -> 실제 플라즈마 물리 현상과 일치함을 보여줌 </br>
+> 
 > - 광학 데이터 중 G와 B가 공정 변수보다 상위에 위치하는 경우</br>
 > -> 시각적 색상 변화가 실제 식각 깊이의 미세한 차이를 더 정확하게 반영함</br>
 > - 머신러닝 모델이 물리적으로 타당한 근거를 바탕으로 예측하고 있음을 검증
