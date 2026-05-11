@@ -14,8 +14,8 @@
 > - **[JVSTA] 44권 2호 Editor's Pick 선정** <br/>
 > <img alt="image" src="https://github.com/user-attachments/assets/ff284881-1d3c-4077-942a-0d9b85dbffc7" width="60%"/> <br/>
 > DOI : https://doi.org/10.1116/6.0005255
-> - SHAP 분석을 통한 공정 파라미터의 영향력 해석 <br/>
-> - DIC에서 추출한 RGB 데이터의 유용성 입증 <br/>
+> - SHAP 분석을 통해 DIC에서 추출한 RGB 데이터가 공정 변수보다 상위에 있음을 증명함으로써 DIC 데이터의 유용성 입증 <br/>
+> <img width="311" height="206" alt="image" src="https://github.com/user-attachments/assets/9c47daad-420d-4ccb-8f06-a30a1a5e44c2" /> <br/>
 
 ## 🎬 수행 내용
 ### 데이터
