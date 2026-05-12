@@ -14,6 +14,7 @@
 > - **[JVSTA] 44권 2호 Editor's Pick 선정** <br/>
 > <img alt="image" src="https://github.com/user-attachments/assets/ff284881-1d3c-4077-942a-0d9b85dbffc7" width="70%"/> <br/>
 > DOI : https://doi.org/10.1116/6.0005255
+> - 실제 플라즈마 물리 현상에서 알 수 있는 공정 변수의 영향력과 유사한 모습을 보여줌으로써 기존의 시스템 대체 가능성 증명
 > - SHAP 분석을 통해 DIC에서 추출한 RGB 데이터가 공정 변수보다 상위에 있음을 증명함으로써 DIC 데이터의 유용성 입증 <br/>
 > <img width="311" height="206" alt="image" src="https://github.com/user-attachments/assets/9c47daad-420d-4ccb-8f06-a30a1a5e44c2" /> <br/>
 
