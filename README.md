@@ -11,7 +11,7 @@
 ### 성과
 > - 2025년 반도체공학회 하계 학술대회 참가<br/>
 > <img alt="image" src="https://github.com/user-attachments/assets/c0e68a15-31d2-4a80-9dc5-5baf06d0b179" width="70%"/> <br/>
-> - **[JVSTA] 44권 2호 Editor's Pick 선정** <br/>
+> - [JVSTA] 44권 2호 Editor's Pick 선정 <br/>
 > <img alt="image" src="https://github.com/user-attachments/assets/ff284881-1d3c-4077-942a-0d9b85dbffc7" width="70%"/> <br/>
 > DOI : https://doi.org/10.1116/6.0005255
 > - 실제 플라즈마 물리 현상에서 알 수 있는 공정 변수의 영향력과 유사한 모습을 보여줌으로써 기존의 시스템 대체 가능성 증명
